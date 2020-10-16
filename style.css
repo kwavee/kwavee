@@ -5,7 +5,7 @@
 
 .cbzq {
     align-items: center;
-    background-image: url("./cbzq1.jpg");
+    background-image: url("/cbzq1.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,6 +15,18 @@
 }
 
 .you {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
     color: aliceblue;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.log h1 {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 20px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.log img {
+    width: 100%;
+    height: auto;
 }
